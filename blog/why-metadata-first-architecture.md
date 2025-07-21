@@ -3,7 +3,7 @@
 
 ---
 
-In today’s data-driven world, organizations are racing to make their data usable, trustworthy, and scalable. Yet one foundational concept is often underestimated or overlooked — **metadata**. As a Senior Data Architect with two decades of experience, I’ve seen first-hand how metadata can be the difference between a fragile pipeline and a resilient data platform.
+In today’s data-driven world, organizations are racing to make their data usable, trustworthy, and scalable. Yet one foundational concept is often underestimated or overlooked — **metadata**. As a Data Architect with two decades of experience, I’ve seen first-hand how metadata can be the difference between a fragile pipeline and a resilient data platform.
 
 This post explores why **metadata-first architecture** is not only valuable, but essential for modern, scalable, and governable data systems.
 
@@ -29,7 +29,7 @@ When you know where data came from, what it represents, and how it has been tran
 - Traceability
 - Consistency across pipelines
 
-I’ve implemented this in public health systems, where lack of metadata made it difficult for researchers to validate the suitability of datasets. By introducing a metadata engine, we improved traceability and enabled informed use of health data.
+This is especially important in public health systems, where lack of metadata make it difficult for researchers to validate the suitability of datasets. By introducing a metadata engine, we can improve traceability and enable informed use of health data.
 
 ---
 
@@ -39,7 +39,7 @@ Manual data wrangling slows down research and decision-making. With metadata-ric
 - Downstream users can quickly understand and use it
 - Automation becomes easier (e.g., schema inference, dynamic transformations)
 
-One of my projects reduced dataset provisioning time by **over 40%** just by making metadata an integral part of the ETL pipeline.
+Organizations can easily reduce dataset provisioning time by **a larger order** just by making metadata an integral part of the ETL pipeline.
 
 ---
 
@@ -88,4 +88,4 @@ In my experience across government ministries and global enterprises, metadata-f
 
 ---
 
-*Have thoughts on metadata-first architecture? Want help designing your data platform? Let’s connect on [LinkedIn](https://linkedin.com/in/jamesumogu).*  
+*Have thoughts on metadata-first architecture? What have you tried? [LinkedIn](https://linkedin.com/in/jamesumogu).*  
